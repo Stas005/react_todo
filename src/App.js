@@ -23,7 +23,7 @@ function App() {
         id:uuidv4(),
         item,
         color:randomColor({
-          luminosity:'light'
+          luminosity:'dark'
         }),
         defaultPos:{
           x: 500,
